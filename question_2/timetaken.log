@@ -1,0 +1,4 @@
+n = 3, avg time taken = 0.00000075
+n = 5, avg time taken = 0.00000050
+n = 50, avg time taken = 0.00000575
+n = 80, avg time taken = 0.00001225
